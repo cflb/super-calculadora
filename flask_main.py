@@ -1,6 +1,6 @@
 """Webservice para calculos matematicos"""
 from flask import Flask
-from super_calculadora.aritmetica import soma, divisao
+from aritmetica import soma, divisao
 
 """
   Criar um webservice para fazer calculos InMathematical_Operators
