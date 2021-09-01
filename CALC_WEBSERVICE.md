@@ -57,3 +57,7 @@ ela ira funcionar da seguinte forma:
 
 > python3 -m pip install flask
 
+## Para instalar e rodar a aplicacao  execute
+
+> python3 -m pip install -r requirements.txt
+
